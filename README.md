@@ -31,6 +31,3 @@ This approach avoids third-party dependencies, making the tool portable and secu
 - OS module  
 - Binary file analysis  
 
----
-
-## 📂 Project Structure
